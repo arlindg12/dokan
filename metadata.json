@@ -1,0 +1,7 @@
+{
+  "name": "OmniShop Pro",
+  "description": "A comprehensive React-based Shop Management System featuring POS, Inventory Tracking, Accounting, and AI-powered business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
